@@ -1,3 +1,9 @@
+🔭 I’m currently working on front-end development (Vue & TS) and a 2D indie game.(目前正专注于前端开发以及一款 2D 个人独立游戏)
+
+🌱 I’m currently learning deeper Godot Engine mechanics and game design.(正在深入学习 Godot 引擎与游戏设计)
+
+⚡ Fun fact: I also enjoy digital illustration and writing stories in my spare time.(闲暇时还会画画和写小说)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuuuyuan&theme=blueberry-duo)](https://git.io/streak-stats)
 <!--
 **yuuuyuan/yuuuyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
